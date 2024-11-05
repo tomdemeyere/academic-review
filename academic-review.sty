@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{reviewer_response}[2024/11/05 Review Response Template]
+\ProvidesPackage{academic-review}[2024/11/05 Review Response Template]
 
 % Required packages
 \RequirePackage[T1]{fontenc}
@@ -121,7 +121,7 @@
 
 % Random response generator command
 \newcommand{\randomthanks}{%
-  \pgfmathsetmacro{\responsenum}{int(random(0,19))}%
+  \pgfmathsetmacro{\responsenum}{int(random(0,17))}%
   \ifcase\responsenum
     \responseA
   \or
