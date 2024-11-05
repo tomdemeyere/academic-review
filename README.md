@@ -1,6 +1,6 @@
 # 📝 LaTeX Reviewer Response Template
 
-A simple yet effective LaTeX template focused on answering reviewer's comments in scientific writing. The template is self-contained and contains all the necessary commands to create a professional response to reviewer's comments. All commands are defined in the `reviewer_response.sty` file and can be easily customized if needed.
+A simple yet effective LaTeX template focused on answering reviewer's comments in scientific writing. The template is self-contained and contains all the necessary commands to create a professional response to reviewer's comments. All commands are defined in the `reviewer_response.sty` file and can be easily customized if needed. The package was partially inspired by the work done by [Dr. Julian Holland](https://github.com/julianholland) while working on his PhD thesis at Southampton University.
 
 ---
 
