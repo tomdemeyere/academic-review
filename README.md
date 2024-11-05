@@ -8,7 +8,7 @@ A simple yet effective LaTeX template focused on answering reviewer's comments i
 
 The package should be placed in the same directory as the main LaTeX file. To use the package, simply include the following line in the main LaTeX file:
 ```latex
-\usepackage{reviewer_response}
+\usepackage{academic-review}
 ```
 
 ---
