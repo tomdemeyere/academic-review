@@ -83,7 +83,13 @@ Used to write important notes and acknowledgments.
 #### `\randomthanks` Command
 Generates a random acknowledgment message from a predefined list.
 ```latex
-\randomthanks We performed X to address the reviewer's comment.
+\randomthanks [...]
+
+% Might generate:
+% "We thank the reviewer for their insightful comment."
+% "We appreciate the reviewer's valuable feedback."
+% ...
+% Can be customized in the academic-review.sty file.
 ```
 
 ---
